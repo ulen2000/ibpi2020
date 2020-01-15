@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Call for Paper"
-    url: /research/   
+    url: /CFP/   
     
   - title: "Submission"
-    url: /publications/ 
+    url: /submission/ 
 
   - title: "Committee"
-    url: /teaching/    
+    url: /committee/    

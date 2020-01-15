@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Laboratory Name"
+title                    : "IBPI2020"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "lab description. lab description. lab description. lab description. lab description."
-url                      : https://commin.github.io/lab # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "IBPI2020"
+description              : &description "The 2nd Workshop on Intelligence Big Data Processing Infrastructure and Its Applications in conjunction with PICom 2020"
+url                      : https://commin.github.io/ibpi2020 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wang"
+  name             : "IBPI2020"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Wuhan, China"
+  bio              : "in conjunction with The 18th IEEE International Conference on Pervasive Intelligence and Computing (PICom 2020)"
+  location         : "June 22-26, 2020, Calgary, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com" <add> your 
