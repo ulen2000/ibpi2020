@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Memebers"
+permalink: /members/
+author_profile: true
+---
+
+<p>modify this page file: /_pages/members.html</p>
+<p>add member page markdown file into /_members/</p>
+
+{% include base_path %}
+
+{% for post in site.members%}
+  {% include archive-single.html %}
+{% endfor %}
