@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /CTP/
 title: "Call for Paper"
 excerpt: "Call for Paper"
 author_profile: true
-redirect_from: 
-  - /CFP/
-  - /CTP.html
 ---
 
 The goal of this Workshop is to present and discuss the recent advances in the interdisciplinary areas applied to big data. We aim to bring together specialists from academia and industry in different fields to discuss further developments and trends in the big data area.

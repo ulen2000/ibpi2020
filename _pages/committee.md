@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /committee/
 title: "Committee"
 excerpt: "committee"
 author_profile: true
-redirect_from: 
-  - /committee/
-  - /committee.html
 ---
 
 ## Honorary Chairs

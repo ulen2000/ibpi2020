@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /submission/
 title: "Submission"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /submission/
-  - /submission.html
 ---
 
 All submissions must be followed in the **IEEE CS proceedings format**, and all accepted papers will be published by IEEE (IEEE-DL and EI indexed) in Conference Proceedings. Best Paper Awards will be presented to high quality papers. Selected papers will be recommended to prestigious journal special issues.
