@@ -1,5 +1,5 @@
 ---
-permalink: /CTP/
+permalink: /CFP/
 title: "Call for Paper"
 excerpt: "Call for Paper"
 author_profile: true
