@@ -13,5 +13,5 @@ _Workshop/special session paper_: **4-6 pages.**
 
 * Regular Paper Submission Due: _**July 01, 2021**_
 * Notification: **Aug.01, 2021**
-* Camera-ready Submission: **Sept. 1, 2021 **
-* Workshop Time: **Oct. 25-28, 2021**
+* Camera-ready Submission: **Sept.1, 2021**
+* Workshop Time: **Oct.25-28, 2021**
