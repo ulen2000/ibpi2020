@@ -11,8 +11,7 @@ _Workshop/special session paper_: **4-6 pages.**
 
 ## Import Dates
 
-* Regular Paper Submission Due: _**Mar 10, 2020**_
-* Authors Author/Paper Registration: **May 05, 2020**
-* Notification: **April 01, 2020**
-* Camera-ready Submission: **May 10, 2020**
-* Workshop Time: **Aug 5-8, 2019**
+* Regular Paper Submission Due: _**July 01, 2021**_
+* Notification: **Aug.01, 2021**
+* Camera-ready Submission: **Sept. 1, 2021 **
+* Workshop Time: **Oct. 25-28, 2021**
