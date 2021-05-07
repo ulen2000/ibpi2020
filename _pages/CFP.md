@@ -15,7 +15,7 @@ The topics for the workshop include the following but are not limited to:
 * Big Data, 
 * Storage Systems, 
 * Cache systems, 
-* Self-* Systems, 
+* Self Systems, 
 * Mobile Agent Systems, 
 * Tracking Systems, 
 * Multi-Robot Systems, 
