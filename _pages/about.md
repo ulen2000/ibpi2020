@@ -86,7 +86,7 @@ Yulong Zhang（Wuhan University of technology，China）
 Please refer to the introduction in [IEEE PICom2021](http://cyber-science.org/2021/venue/)
 
 
-![avatar](ieee.png)
-![ieeecs](https://user-images.githubusercontent.com/58459187/117573371-0a910e80-b10a-11eb-9c27-fb8d836d163e.jpg)
+![avatar](ieee.png=400x300)
+![ieeecs](ieeecs.jpg=400x300)
 
 
