@@ -55,9 +55,9 @@ All submissions must be followed in the [**IEEE CS proceedings format**](https:/
 
 ## Contact
 ### General Chair:
-Jingtao Sun (Hitachi, Japan)  jingtao.sun.so@hitachi.com
+Jingtao Sun (Hitachi, Japan) 
 
-Qiang Wang (Wuhan University of Technology,China) wangqiang@whut.edu.cn
+Qiang Wang (Wuhan University of Technology,China)
 
 ### Program Chair:
 Sai Ma (The University of Tokyo, Japan)
