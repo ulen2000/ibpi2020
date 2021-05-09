@@ -32,4 +32,4 @@ Mingkang Chen（The Graduate University for Advanced Studies, Japan）
 
 Yulong Zhang（Wuhan University of technology，China）
 
-If you have any questions, please contact the organizing committee using the following contact information:
+If you have any questions, please contact the organizing committee using the following contact information: ibpi2021.picom@gmail.com
