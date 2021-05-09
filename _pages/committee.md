@@ -5,9 +5,9 @@ excerpt: "committee"
 author_profile: true
 ---
 ## General Chair:
-Jingtao Sun (Hitachi, Japan)  jingtao.sun.so@hitachi.com
+Jingtao Sun (Hitachi, Japan)  
 
-Qiang Wang (Wuhan University of Technology,China) wangqiang@whut.edu.cn
+Qiang Wang (Wuhan University of Technology,China) 
 
 ### Program Chair:
 Sai Ma (The University of Tokyo, Japan)
