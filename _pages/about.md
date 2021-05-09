@@ -10,12 +10,12 @@ redirect_from:
 ## IBPI 2021
 **The 3rd Intelligence Big Data Processing Infrastructure and Its Applications(IBPI 2021)**
 <br>
-in conjunction with 
+<center>in conjunction with</center>
 <br>
-The 19th IEEE International Conference on Pervasive Intelligence and Computing. **October 25-28, 2021** Calgary, Canada (On-site & Virtual Combined Conference)
+The 19th IEEE International Conference on Pervasive Intelligence and Computing. 
+<br>**October 25-28, 2021** Calgary, Canada (On-site & Virtual Combined Conference)
 
-
-## Abstract
+## Call for Papers
 The ever-changing innovation and transformation of computer and network technologies have brought us new opportunities for our daily production and life. These novel forms of computing and implementation often require a powerful and self-adaptable technology platform and network to cater to the user-required applications. In this special workshop, we focus on complexity computer science theory for Big Data, Intelligence computing/network/sensor technologies. In addition, our workshop is not limited to the above research fields, we also welcome the most advanced technologies such as intelligence biology technology, animal husbandry, agriculture, industrial management, health care self-driving and other cross-platform or fusion of multi-field technologies or open up the new research fields.
 
 ## Topics: 
