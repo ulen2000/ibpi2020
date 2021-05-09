@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "PICom 2021"
+title                    : "IBPI 2021"
 title_separator          : "-"
-name                     : &name "PICom 2021"
+name                     : &name "IBPI 2021"
 description              : &description "The 3rd Intelligence Big Data Processing Infrastructure and Its Applications in conjunction with The 19th IEEE International Conference on Pervasive Intelligence and Computing"
-url                      : https://ulen2000.github.io/PICom-2021/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ulen2000.github.io/ibpi2021/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "PICom 2021"
+  name             : "IBPI 2021"
   avatar           : "picom.jpg"
   bio              : "The 3rd Intelligence Big Data Processing Infrastructure and Its Applications in conjunction with The 19th IEEE International Conference on Pervasive Intelligence and Computing."
   location         : "October 25-28, 2021,Calgary, Canada"
