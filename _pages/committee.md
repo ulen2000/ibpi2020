@@ -28,6 +28,8 @@ Shijie Li（Wuhan University of technology，China）
 Markus Ullrich (University of Applied Sciences Zittau/Görlitz, Germany)
 
 ### Publication Chair：
-Mingkang Chen（The Graduate University for Advanced Studies， Japan）
+Mingkang Chen（The Graduate University for Advanced Studies, Japan）
 
 Yulong Zhang（Wuhan University of technology，China）
+
+If you have any questions, please contact the organizing committee using the following contact information:
