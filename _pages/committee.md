@@ -15,9 +15,19 @@ Sai Ma (The University of Tokyo, Japan)
 ### Program committee:
 Sisi Duan (Tsinghua University, China)
 
-Nirmalya Roy（University  of Maryland Baltimore County，USA）
+Antonio Guerrieri（Icar-cnr， Italy）
+
+Nirmalya Roy（University of Maryland Baltimore County，USA）
 
 Yining Liu（Guilin University of Electronic Technology，China）
 
+Qian Ma（Nanjing university of science and technology，China）
+
+Shijie Li（Wuhan University of technology，China）
+
+Markus Ullrich (University of Applied Sciences Zittau/Görlitz, Germany)
+
 ### Publication Chair：
 Mingkang Chen（The Graduate University for Advanced Studies， Japan）
+
+Yulong Zhang（Wuhan University of technology，China）
