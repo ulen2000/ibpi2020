@@ -10,7 +10,7 @@ redirect_from:
 
 **IBPI 2021** October 25-28, 2021,  Calgary, Canada (On-site & Virtual Combined Conference)
 
-The 3rd Intelligence Big Data Processing Infrastructure and Its Applications 
+**The 3rd Intelligence Big Data Processing Infrastructure and Its Applications** 
 in conjunction with
 The 19th IEEE International Conference on Pervasive Intelligence and Computing.
 
