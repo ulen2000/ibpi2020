@@ -87,7 +87,8 @@ Please refer to the introduction in [IEEE PICom2021](http://cyber-science.org/20
 
 If you have any questions, please contact the organizing committee using the following contact information: ibpi2021.picom@gmail.com
 
-![avatar](ieee.png =400x300)
+<a href="url"><img src="http://ieee.png" align="left" height="400" width="300" ></a>
+
 ![ieeecs](ieeecs.jpg =400x300)
 
 
