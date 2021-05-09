@@ -19,7 +19,24 @@ The ever-changing innovation and transformation of computer and network technolo
 
 ## Topics: 
 The topics for the workshop include the following but are not limited to:
-Complexity Computer Science Theory, Distributed Computing, Cloud Computing, Edge Computing, Fog Computing, Biocomputing, Big Data, Storage Systems, Cache systems, Self Systems, Mobile Agent Systems, Tracking Systems, Multi-Robot Systems, Nutrition Monitoring System, Human-Machine Systems, Wireless Sensor Networks, Internet of Things(IoT), Image Processing, and its Applications.
+- Complexity Computer Science Theory
+- Distributed Computing
+- Cloud Computing
+- Edge Computing
+- Fog Computing
+- Biocomputing
+- Big Data
+- Storage Systems
+- Cache systems
+- Self Systems
+- Mobile Agent Systems
+- Tracking Systems
+- Multi-Robot Systems
+- Nutrition Monitoring System
+- Human-Machine Systems
+- Wireless Sensor Networks
+- Internet of Things(IoT)
+- Image Processing and its Applications
 
 ## Import Dates:
 Full Paper Submission Due: July 01, 2021
