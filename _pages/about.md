@@ -86,7 +86,7 @@ Yulong Zhang（Wuhan University of technology，China）
 Please refer to the introduction in [IEEE PICom2021](http://cyber-science.org/2021/venue/)
 
 
-![ieee](https://user-images.githubusercontent.com/58459187/117573369-06fd8780-b10a-11eb-8575-1bc1fac63eea.png)
+< img src="https://user-images.githubusercontent.com/58459187/117573369-06fd8780-b10a-11eb-8575-1bc1fac63eea.png" alt="GitHub" title="GitHub,Social Coding" width="50" height="50" />
 ![ieeecs](https://user-images.githubusercontent.com/58459187/117573371-0a910e80-b10a-11eb-9c27-fb8d836d163e.jpg)
 
 
