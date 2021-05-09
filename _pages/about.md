@@ -85,6 +85,7 @@ Yulong Zhang（Wuhan University of technology，China）
 ### Conference Venue and Local Information
 Please refer to the introduction in [IEEE PICom2021](http://cyber-science.org/2021/venue/)
 
+If you have any questions, please contact the organizing committee using the following contact information:
 
 ![avatar](ieee.png=400x300)
 ![ieeecs](ieeecs.jpg=400x300)
