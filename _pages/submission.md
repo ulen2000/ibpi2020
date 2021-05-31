@@ -17,6 +17,6 @@ _Workshop/special session paper_: **4-6 pages.**
 
 **Camera-ready Submission: September 20, 2021**
 
-**Conference dates:  October. 25-28, 2021**
+**Conference dates:  October 25-28, 2021**
 
 **Workshop/special session paper: 4-6 pages.**
