@@ -47,7 +47,7 @@ The topics for the workshop include the following but are not limited to:
 
 **Camera-ready Submission: September 20, 2021**
 
-**Conference dates:  October. 25-28, 2021**
+**Conference dates:  October 25-28, 2021**
 
 **Workshop/special session paper: 4-6 pages.**
 
