@@ -41,11 +41,11 @@ The topics for the workshop include the following but are not limited to:
 - Image Processing and its Applications
 
 ## Import Dates:
-**Full Paper Submission Due: August 8, 2021**
+**Full Paper Submission Due: ~~August 8, 2021~~ August 27, 2021**
 
-**Authors Notification: September 6, 2021** 
+**Authors Notification: ~~September 6, 2021~~ September 21, 2021** 
 
-**Camera-ready Submission: September 20, 2021**
+**Camera-ready Submission: ~~September 20, 2021~~ October 1, 2021**
 
 **Conference dates:  October 25-28, 2021**
 
